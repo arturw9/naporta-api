@@ -76,7 +76,8 @@ npx prisma generate
 ---
 
 ## 🌱 4. Popular banco com dados iniciais (SEED)
-
+**Todos os campos são obrigatorios
+**CPF deve contem 11 caracteres
 Esse projeto possui um script de seed para criar usuários e pedidos fictícios.
 
 Rodar seed:
