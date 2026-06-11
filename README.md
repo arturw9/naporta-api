@@ -35,6 +35,12 @@ API desenvolvida em **NestJS**, com **Prisma ORM**, **PostgreSQL** via Docker, a
 
 ---
 
+## Quando for utilizar, lembrar:
+
+**Todos os campos são obrigatorios
+
+**CPF deve conter 11 caracteres
+
 ## 🐳 1. Subir o banco de dados
 
 Na raiz do projeto:
@@ -76,9 +82,6 @@ npx prisma generate
 ---
 
 ## 🌱 4. Popular banco com dados iniciais (SEED)
-**Todos os campos são obrigatorios
-
-**CPF deve contem 11 caracteres
 
 Esse projeto possui um script de seed para criar usuários e pedidos fictícios.
 
