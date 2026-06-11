@@ -132,10 +132,10 @@ Documentação disponível em: `http://localhost:3000/api`
 
 ## 🔐 Autenticação
 
-Todas as rotas protegidas usam:
+Todas as rotas protegidas usam Authorization Bearer <token>:
 
 ```
-Authorization: Bearer <token>
+No Swagger clicar no campo 'Authorize' e inserir somente o token obtido no endpoint 'Auth'.
 ```
 
 **Login:**
