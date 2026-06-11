@@ -1,4 +1,4 @@
-# 📦 Naporta API
+# 📦 Naporta API - Gerenciar pedidos realizados
 
 API desenvolvida em **NestJS**, com **Prisma ORM**, **PostgreSQL** via Docker, autenticação **JWT** e testes E2E com **Jest**.
 
